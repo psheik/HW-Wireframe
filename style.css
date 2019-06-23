@@ -8,13 +8,15 @@
 }
 
 body {background-color: #777777;
-  margin-left: 12.037037037%;
-  margin-right: 14.737654321%;
-  margin-top: 1%;
+  margin-left: 156px;
+  margin-right: 200px;
+  margin-top: 10px;
+  margin-bottom: 98px;
+  width: 960px;
 }
 
 header {
-  margin-bottom: 1.375515818%;
+  margin-bottom: 10px;
   line-height: 522.22222%;
   color: #777777;
   background: #EBEBEB;
@@ -22,7 +24,7 @@ header {
 }
 
 nav {
-  margin-bottom: 2.751031636%;
+  margin-bottom: 20px;
   line-height: 522.22222%;
   color: #777777;
   background: #EBEBEB;
@@ -35,16 +37,16 @@ section {
     margin-right: 1.7003703%;
     padding-bottom: 10px;
     margin-bottom: 20px;
-    width: 55.1%;
-  }
+    width: 495px;
+}
 
 #left {
     line-height: 82px;
     float: left;
     font-size: 18px; font-family:Arial, Helvetica, sans-serif;
-  }
+}
 
-#left2 {
+#article {
     line-height: 350%;
     width: 96.1165%;
     margin-left: 1.94175%;
@@ -52,9 +54,9 @@ section {
     background: #777777;
     color: #EBEBEB;
     padding-bottom: 10px;
-  }
+}
 
-#left3 {
+#header {
     line-height: 300%;
     font-weight: bold;
     background: #EBEBEB;
@@ -68,9 +70,9 @@ section {
     margin-right: 4%;
     margin-bottom: 2%;
     border-color: #777777;
-  }
+}
 
-#left4 {
+#paragraph {
     line-height: 300%;
     background: #EBEBEB;
     color: #777777;
@@ -82,25 +84,25 @@ section {
     margin-right: 4%;
     margin-bottom: 1%;
     border-color: #777777;
-  }
+}
 
 
 aside {
     line-height: 82px;
     color: #777777;
     background: #EBEBEB;
-    padding-bottom: 207px;
+    padding-bottom: 231px;
     float: left;
-    width: 43.2%;
+    width: 46.7%;
     font-size: 18px; font-family:Arial, Helvetica, sans-serif;
-  }
+}
 
 
-  footer {
+footer {
     clear: both;
     line-height: 522.22222%;
     color: #777777;
     background: #EBEBEB;
     font-size: 18px; font-family:Arial, Helvetica, sans-serif;
     width: 100%;
-  }
+}
